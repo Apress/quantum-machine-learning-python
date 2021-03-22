@@ -1,0 +1,30 @@
+/home/santanu/anaconda3/bin/python /home/santanu/PycharmProjects/QuantumML/QCNN.py
+numpy version 1.19.0
+matplotlib version 2.2.5
+torch version 1.2.0
+qiskit version 0.15.2
+Training [5%]	Loss: -0.8083
+Training [10%]	Loss: -0.9014
+Training [15%]	Loss: -0.9319
+Training [20%]	Loss: -0.9433
+Training [25%]	Loss: -0.9485
+Training [30%]	Loss: -0.9604
+Training [35%]	Loss: -0.9643
+Training [40%]	Loss: -0.9679
+Training [45%]	Loss: -0.9754
+Training [50%]	Loss: -0.9728
+Training [55%]	Loss: -0.9764
+Training [60%]	Loss: -0.9832
+Training [65%]	Loss: -0.9802
+Training [70%]	Loss: -0.9855
+Training [75%]	Loss: -0.9822
+Training [80%]	Loss: -0.9815
+Training [85%]	Loss: -0.9885
+Training [90%]	Loss: -0.9900
+Training [95%]	Loss: -0.9866
+Training [100%]	Loss: -0.9907
+Performance on test data:
+	Loss: -0.9767
+	Accuracy: 100.0%
+
+Process finished with exit code 0

@@ -1,0 +1,28 @@
+/home/santanu/anaconda3/bin/python /home/santanu/PycharmProjects/QuantumML/listing_3.7.py
+cirq verison 0.8.2
+numpy version 1.19.0
+10
+0: ───H───M('z')───
+          │
+1: ───H───M────────
+          │
+2: ───H───M────────
+          │
+3: ───H───M────────
+          │
+4: ───H───M────────
+          │
+5: ───H───M────────
+          │
+6: ───H───M────────
+          │
+7: ───H───M────────
+          │
+8: ───H───M────────
+          │
+9: ───H───M────────
+Sampled Random Numbers
+[91, 105, 437, 570, 1009, 436, 809, 478, 696, 417, 975, 958, 564, 916, 105, 1020, 629, 263, 928, 276, 607]
+Mean of the Sampled Random Numbers 585.1904761904761
+
+Process finished with exit code 0

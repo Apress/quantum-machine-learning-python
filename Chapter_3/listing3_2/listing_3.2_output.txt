@@ -1,0 +1,2706 @@
+/home/santanu/anaconda3/bin/python /home/santanu/PycharmProjects/QuantumML/superposition.py
+circ version 0.8.2
+matplotlib version 2.2.5
+Coming
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.504950495049505
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5980392156862745
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5048543689320388
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5384615384615384
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.47619047619047616
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49056603773584906
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4672897196261682
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4351851851851852
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5412844036697247
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.45454545454545453
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4144144144144144
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48214285714285715
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4690265486725664
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5350877192982456
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5217391304347826
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4827586206896552
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.452991452991453
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.576271186440678
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.46218487394957986
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49166666666666664
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4793388429752066
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.45081967213114754
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4796747967479675
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.47580645161290325
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.488
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.40476190476190477
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5748031496062992
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5234375
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4806201550387597
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5769230769230769
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5267175572519084
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4318181818181818
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5714285714285714
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.44776119402985076
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48148148148148145
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4338235294117647
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48905109489051096
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5072463768115942
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48201438848920863
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5357142857142857
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5177304964539007
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5211267605633803
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4405594405594406
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5138888888888888
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.593103448275862
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5136986301369864
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5306122448979592
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5202702702702703
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5369127516778524
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.44
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.44370860927152317
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5526315789473685
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.477124183006536
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.461038961038961
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4774193548387097
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5192307692307693
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4585987261146497
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5126582278481012
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5220125786163522
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.525
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.40993788819875776
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4506172839506173
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.44171779141104295
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5060975609756098
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4909090909090909
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4491017964071856
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5178571428571429
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4378698224852071
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5352941176470588
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5146198830409356
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5581395348837209
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5028901734104047
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4827586206896552
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4857142857142857
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48295454545454547
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.536723163841808
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48314606741573035
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4860335195530726
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4666666666666667
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4530386740331492
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4340659340659341
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.45901639344262296
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4945652173913043
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5027027027027027
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.46236559139784944
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5080213903743316
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4603174603174603
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5473684210526316
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4607329842931937
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5104166666666666
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5699481865284974
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5360824742268041
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5282051282051282
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4897959183673469
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5279187817258884
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5050505050505051
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5326633165829145
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.525
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5124378109452736
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.504950495049505
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5024630541871922
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4411764705882353
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5317073170731708
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49514563106796117
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5072463768115942
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5240384615384616
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4688995215311005
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.47619047619047616
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4976303317535545
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5070422535211268
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5186915887850467
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4883720930232558
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4722222222222222
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4792626728110599
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5229357798165137
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.502283105022831
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4772727272727273
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5158371040723982
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.47297297297297297
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5291479820627802
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5223214285714286
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5022222222222222
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5309734513274337
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4713656387665198
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5219298245614035
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5458515283842795
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49130434782608695
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.47186147186147187
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5043103448275862
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5321888412017167
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.452991452991453
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48936170212765956
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5720338983050848
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5189873417721519
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49159663865546216
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4560669456066946
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5125
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5103734439834025
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4793388429752066
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.522633744855967
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.45081967213114754
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4775510204081633
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5365853658536586
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.44129554655870445
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5725806451612904
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5220883534136547
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.488
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5378486055776892
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4880952380952381
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5296442687747036
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4763779527559055
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.44313725490196076
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.53515625
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5758754863813229
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5348837209302325
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5019305019305019
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5115384615384615
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4559386973180077
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.46564885496183206
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5095057034220533
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5454545454545454
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5018867924528302
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4794007490636704
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5186567164179104
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49070631970260226
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48518518518518516
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4833948339483395
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5257352941176471
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5164835164835165
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5109489051094891
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5127272727272727
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4782608695652174
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.47653429602888087
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48201438848920863
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.46236559139784944
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4928571428571429
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4804270462633452
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48936170212765956
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4876325088339223
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.45774647887323944
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5017543859649123
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.506993006993007
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5923344947735192
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4861111111111111
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5294117647058824
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4724137931034483
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5463917525773195
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4691780821917808
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.47440273037542663
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5374149659863946
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4542372881355932
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.46283783783783783
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5151515151515151
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5134228187919463
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5016722408026756
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.52
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4883720930232558
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.47854785478547857
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.506578947368421
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4918032786885246
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.46405228758169936
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.46579804560260585
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4707792207792208
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.540453074433657
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4935483870967742
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5048231511254019
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4935897435897436
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5207667731629393
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5095541401273885
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.43492063492063493
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4588607594936709
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5141955835962145
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5849056603773585
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5329153605015674
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.478125
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5327102803738317
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5248447204968945
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5170278637770898
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5092592592592593
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48923076923076925
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49693251533742333
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5137614678899083
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5335365853658537
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49848024316109424
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5303030303030303
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4954682779456193
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5060240963855421
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5225225225225225
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5149700598802395
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5044776119402985
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5208333333333334
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.516320474777448
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4970414201183432
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5014749262536873
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4852941176470588
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5073313782991202
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5116959064327485
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.478134110787172
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.45348837209302323
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4753623188405797
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.44508670520231214
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4755043227665706
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49283667621776506
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5257142857142857
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5299145299145299
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48011363636363635
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48725212464589235
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5169491525423728
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4704225352112676
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.42696629213483145
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5322128851540616
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4581005586592179
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4763231197771588
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5055555555555555
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.518005540166205
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5386740331491713
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4738292011019284
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5192307692307693
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4849315068493151
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4426229508196721
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5122615803814714
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.46467391304347827
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5284552845528455
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.45675675675675675
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48247978436657685
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5376344086021505
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4691689008042895
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4946524064171123
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49066666666666664
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4946808510638298
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5145888594164456
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48148148148148145
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.525065963060686
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5210526315789473
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48031496062992124
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5078534031413613
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5065274151436031
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5130208333333334
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5038961038961038
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4896373056994819
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4754521963824289
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5180412371134021
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4884318766066838
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5076923076923077
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5396419437340153
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5280612244897959
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5190839694656488
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4796954314720812
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4759493670886076
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48484848484848486
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5012594458438288
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.47738693467336685
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48872180451127817
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4825
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5012468827930174
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4552238805970149
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5086848635235732
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5693069306930693
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49135802469135803
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4827586206896552
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49385749385749383
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5294117647058824
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4841075794621027
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5279805352798054
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5266990291262136
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5060532687651331
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4613526570048309
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4867469879518072
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5432692307692307
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5083932853717026
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5239234449760766
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4510739856801909
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5095238095238095
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5510688836104513
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5260663507109005
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5366430260047281
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.47877358490566035
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4752941176470588
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49061032863849763
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48711943793911006
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.46261682242990654
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.47086247086247085
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5209302325581395
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4895591647331787
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4652777777777778
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5242494226327945
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.532258064516129
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5080459770114942
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4793577981651376
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.45080091533180777
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5296803652968036
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.46924829157175396
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48863636363636365
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5079365079365079
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4796380090497738
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5079006772009029
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.536036036036036
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49887640449438203
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4977578475336323
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.46756152125279643
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4888392857142857
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.46993318485523383
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4866666666666667
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5077605321507761
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4889380530973451
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.46357615894039733
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5198237885462555
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4989010989010989
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4692982456140351
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4989059080962801
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5021834061135371
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5446623093681917
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5173913043478261
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5249457700650759
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49134199134199136
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49892008639308855
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.47844827586206895
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5053763440860215
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5128755364806867
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4753747323340471
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5042735042735043
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5202558635394456
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4957446808510638
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5159235668789809
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5296610169491526
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.44608879492600423
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5443037974683544
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5094736842105263
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.523109243697479
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4968553459119497
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.47280334728033474
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5553235908141962
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49583333333333335
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4802494802494803
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5020746887966805
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4906832298136646
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.493801652892562
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4948453608247423
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49794238683127573
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4928131416837782
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4610655737704918
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4601226993865031
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4959183673469388
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5112016293279023
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5386178861788617
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5050709939148073
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4777327935222672
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5272727272727272
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5504032258064516
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5191146881287726
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4799196787148594
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5170340681362725
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.536
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49500998003992014
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48406374501992033
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.47713717693836977
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49206349206349204
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4910891089108911
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5019762845849802
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4477317554240631
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5127701375245579
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.46862745098039216
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5146771037181996
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.521484375
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.50682261208577
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5097276264591439
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5106796116504855
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5251937984496124
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4506769825918762
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5135135135135135
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48747591522157996
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5153846153846153
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.527831094049904
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5019157088122606
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5124282982791587
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5019083969465649
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5047619047619047
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5076045627376425
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4952561669829222
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5075757575757576
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.46880907372400754
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5018867924528302
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5065913370998116
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4868421052631579
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4709193245778612
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48314606741573035
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5065420560747663
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4906716417910448
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5307262569832403
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48794063079777367
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5296296296296297
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49722735674676527
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5101289134438306
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48713235294117646
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5541284403669725
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5091575091575091
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48811700182815354
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5364963503649635
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48451730418943534
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4882032667876588
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49094202898550726
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5171790235081374
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4855595667870036
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4990990990990991
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5269784172661871
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5170556552962298
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5197132616487455
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49552772808586765
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48214285714285715
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49019607843137253
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48398576512455516
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4955595026642984
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5195035460992907
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48849557522123893
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.508833922261484
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5167548500881834
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4876760563380282
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5131810193321616
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5087719298245614
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4851138353765324
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5227272727272727
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5078534031413613
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5383275261324042
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5217391304347826
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4809027777777778
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4904679376083189
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4844290657439446
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4939550949913644
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5206896551724138
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.47676419965576594
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48281786941580757
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5145797598627787
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4863013698630137
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48205128205128206
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5102389078498294
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4855195911413969
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4931972789115646
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5229202037351444
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5254237288135594
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5008460236886633
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5101351351351351
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49409780775716694
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4882154882154882
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4957983193277311
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4697986577181208
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.52428810720268
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5367892976588629
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4991652754590985
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49666666666666665
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.454242928452579
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5049833887043189
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4709784411276949
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48841059602649006
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49421487603305786
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4900990099009901
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4975288303130148
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5197368421052632
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4745484400656814
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4934426229508197
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49263502454991814
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5310457516339869
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49592169657422513
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.509771986970684
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5154471544715448
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5097402597402597
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4878444084278768
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5388349514563107
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4975767366720517
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5177419354838709
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.47987117552334946
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5257234726688103
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4751203852327448
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5128205128205128
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5024
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4696485623003195
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4449760765550239
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4872611464968153
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5151033386327504
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5349206349206349
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48811410459587956
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4620253164556962
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4755134281200632
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4842271293375394
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5196850393700787
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4858490566037736
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5086342229199372
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5297805642633229
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5086071987480438
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.503125
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5132605304212169
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5249221183800623
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48522550544323484
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.515527950310559
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5116279069767442
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5123839009287926
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5038639876352395
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5231481481481481
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5007704160246533
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5323076923076923
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.511520737327189
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.50920245398773
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5283307810107197
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5152905198776758
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49923664122137407
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5213414634146342
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4931506849315068
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5243161094224924
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5022761760242792
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5015151515151515
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5234493192133132
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5120845921450151
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5143288084464555
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49849397590361444
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4992481203007519
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.524024024024024
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48875562218890556
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5119760479041916
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5097159940209267
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5029850746268657
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4918032786885246
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5089285714285714
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4947994056463596
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5118694362017804
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4785185185185185
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5251479289940828
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4874446085672083
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5309734513274337
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5287187039764359
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.513235294117647
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4787077826725404
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4912023460410557
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.47144948755490484
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5146198830409356
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5372262773722628
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48833819241982507
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4861717612809316
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5130813953488372
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4746008708272859
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4927536231884058
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5123010130246021
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5086705202312138
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5093795093795094
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.47406340057636887
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49640287769784175
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4813218390804598
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.503586800573888
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5128939828080229
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.51931330472103
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.47714285714285715
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5206847360912982
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5299145299145299
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4793741109530583
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.45738636363636365
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4836879432624113
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.46175637393767704
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5134370579915134
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.519774011299435
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49647390691114246
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5112676056338028
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4880450070323488
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5168539325842697
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4740532959326788
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5154061624649859
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5286713286713287
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5027932960893855
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5146443514644351
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5278551532033426
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5146036161335188
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5236111111111111
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.47295423023578365
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.518005540166205
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5062240663900415
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5041436464088398
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4868965517241379
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4820936639118457
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5020632737276479
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5288461538461539
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4842249657064472
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5328767123287671
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49658002735978113
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49453551912568305
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4829467939972715
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48501362397820164
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5782312925170068
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5203804347826086
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4925373134328358
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5067750677506775
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5006765899864682
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5121621621621621
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48313090418353577
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5020188425302826
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5228494623655914
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4885906040268456
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4879356568364611
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5194109772423026
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5213903743315508
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5233644859813084
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.47333333333333333
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5153129161118508
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5066489361702128
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5258964143426295
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5053050397877984
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5046357615894039
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49206349206349204
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.47820343461030385
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4841688654353562
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4782608695652174
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5394736842105263
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5256241787122208
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5013123359580053
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5242463958060288
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5026178010471204
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5032679738562091
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4490861618798956
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49934810951760106
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4895833333333333
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4681404421326398
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.509090909090909
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4889753566796368
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5064766839378239
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5265200517464425
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5051679586563308
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4645161290322581
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48711340206185566
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5019305019305019
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5025706940874036
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5096277278562259
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5371794871794872
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4967989756722151
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5089514066496164
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5019157088122606
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5178571428571429
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5312101910828025
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48091603053435117
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5069885641677255
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.516497461928934
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5120405576679341
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5050632911392405
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4804045512010114
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5050505050505051
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4703656998738966
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48614609571788414
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4628930817610063
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5213567839195979
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48557089084065247
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4799498746867168
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5118898623279099
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48625
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5068664169787765
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5112219451371571
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48816936488169366
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4987562189054726
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.506832298136646
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5074441687344913
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48698884758364314
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.47648514851485146
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.484548825710754
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4679012345679012
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48581997533908755
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4852216748768473
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5079950799507995
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5122850122850123
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5067484662576687
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49754901960784315
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48592411260709917
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5073349633251834
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49694749694749696
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5036585365853659
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5176613885505481
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48905109489051096
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.47144592952612396
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5024271844660194
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5139393939393939
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49031476997578693
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5139056831922612
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4758454106280193
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5162846803377563
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4903614457831325
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5018050541516246
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5060096153846154
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5054021608643458
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48201438848920863
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48982035928143713
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5023923444976076
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5113500597371565
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4701670644391408
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4827175208581645
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5023809523809524
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5172413793103449
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.47980997624703087
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.527876631079478
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4834123222748815
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5254437869822485
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4728132387706856
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49586776859504134
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49292452830188677
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5323910482921084
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.528235294117647
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4735605170387779
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4765258215962441
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5017584994138335
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49414519906323184
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5263157894736842
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48130841121495327
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5169194865810969
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49533799533799533
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5005820721769499
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5313953488372093
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4959349593495935
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5104408352668214
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4959443800695249
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5023148148148148
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48554913294797686
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5127020785219399
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5028835063437139
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4861751152073733
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4994246260069045
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.46551724137931033
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5235361653272101
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49426605504587157
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.47995418098510884
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.47254004576659037
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.472
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.502283105022831
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48574686431014824
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5250569476082004
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4937428896473265
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4943181818181818
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.47446083995459704
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4931972789115646
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49490373725934317
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.501131221719457
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5129943502824859
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49435665914221216
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4915445321307779
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49211711711711714
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5298087739032621
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4887640449438202
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5095398428731762
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5207166853303471
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49217002237136465
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4670391061452514
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48549107142857145
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4816053511705686
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.46770601336302897
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5105672969966629
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5333333333333333
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4916759156492786
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49002217294900224
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4894795127353267
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4811946902654867
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5270718232044199
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5331125827814569
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5027563395810364
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5181518151815182
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5164835164835165
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4840834248079034
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5120614035087719
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.511500547645126
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5021881838074398
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5147540983606558
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4868995633187773
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49073064340239914
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4891067538126362
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.46354733405875953
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48695652173913045
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.494028230184582
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4891540130151844
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49187432286023836
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4837662337662338
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4983783783783784
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4978401727861771
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.505933117583603
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5010775862068966
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4865446716899892
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4774193548387097
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49946294307196565
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5171673819742489
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5037513397642015
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49678800856531047
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48770053475935826
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4946581196581197
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4887940234791889
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4936034115138593
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49201277955271566
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49042553191489363
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4824654622741764
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.46178343949044587
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5164369034994698
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5084745762711864
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5079365079365079
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5010570824524313
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4815205913410771
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49683544303797467
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48261327713382507
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4978947368421053
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5068349106203995
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5052521008403361
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4994753410283316
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4968553459119497
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48900523560209425
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4780334728033473
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.509926854754441
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48538622129436326
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48175182481751827
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.496875
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.522372528616025
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5103950103950103
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.490134994807892
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5051867219917012
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.505699481865285
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49585921325051757
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5025853154084798
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5175619834710744
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.500515995872033
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4865979381443299
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5005149330587023
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5030864197530864
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5035971223021583
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5092402464065708
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.518974358974359
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4723360655737705
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5046059365404298
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.50920245398773
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5137895812053116
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5091836734693878
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49337410805300713
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.48268839103869654
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5076297049847406
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5111788617886179
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5045685279187817
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4716024340770791
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49341438703140833
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5263157894736842
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4398382204246714
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5151515151515151
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5227043390514632
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5161290322580645
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.49748237663645517
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5181086519114688
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4934673366834171
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5050200803212851
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4754262788365095
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.5050100200400801
+Circuit Follows
+(0, 0): ───H───M('m')───
+0.4904904904904905
+
+Process finished with exit code 0

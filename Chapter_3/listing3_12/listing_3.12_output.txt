@@ -1,0 +1,12 @@
+/home/santanu/anaconda3/bin/python /home/santanu/PycharmProjects/QuantumML/listing_3.13.py
+cirq version 0.8.2
+Element to be searched: 01
+Grover's algorithm follows
+0: ───H───X───@───X───H───X───@───X───H───────M('Z')───
+              │               │               │
+1: ───H───────@───H───X───H───X───H───X───H───M────────
+              │
+2: ───X───H───X────────────────────────────────────────
+{'01': 1000}
+
+Process finished with exit code 0

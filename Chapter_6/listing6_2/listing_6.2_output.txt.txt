@@ -1,0 +1,30 @@
+Number of original training examples: 60000
+Number of original test examples: 10000
+Number of filtered training examples: 12049
+Number of filtered test examples: 1968
+Initial number of examples: 12049
+Final number of non-contradictory examples: 11520
+Model: "sequential_2"
+_________________________________________________________________
+Layer (type) Output Shape Param #
+=================================================================
+pqc_2 (PQC) (None, 1) 32
+=================================================================
+Total params: 32 Trainable params: 32 Non-trainable params: 0
+Train on 11520 samples, validate on 1968 samples
+Epoch 1/3
+11520/11520 [==============================] - 439s 38ms/sample -
+loss: 0.6591 - hinge_accuracy: 0.7385 - val_loss: 0.3611 -
+val_hinge_accuracy: 0.8281
+Epoch 2/3
+11520/11520 [==============================] - 441s 38ms/sample -
+loss: 0.3458 - hinge_accuracy: 0.8286 - val_loss: 0.3303 -
+val_hinge_accuracy: 0.8281
+Epoch 3/3
+Chapter 6 Quantum Deep Learning
+306
+11520/11520 [==============================] - 437s 38ms/sample -
+loss: 0.3263 - hinge_accuracy: 0.8493 - val_loss: 0.3268 -
+val_hinge_accuracy: 0.8564
+1968/1968 [==============================] - 3s 2ms/sample - loss:
+0.3268 - hinge_accuracy: 0.8564

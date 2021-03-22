@@ -1,0 +1,12 @@
+/home/santanu/anaconda3/bin/python /home/santanu/PycharmProjects/QuantumML/listing_3.6.py
+cirq version 0.8.2
+Circuit
+0: ───H───────@───H───M───────@────────────
+              │       │       │
+1: ───H───@───X───────M───@───┼────────────
+          │               │   │
+2: ───────X───────────────X───@───M('Z')───
+Measurement Output
+Counter({0: 57, 1: 43})
+
+Process finished with exit code 0

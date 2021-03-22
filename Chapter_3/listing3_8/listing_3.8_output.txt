@@ -1,0 +1,21 @@
+/home/santanu/anaconda3/bin/python /home/santanu/PycharmProjects/QuantumML/listing3.8.py
+cirq version 0.8.2
+numpy version 1.19.0
+Execute Deutsch Jozsa for a Balanced Function of Domain size 4
+Circuit Diagram Follows
+0: ───H───────@───H───────M('z')───
+              │           │
+1: ───H───────┼───@───H───M────────
+              │   │
+2: ───X───H───X───X────────────────
+Counter({3: 1000})
+Execute Deutsch Jozsa for a Constant Function of Domain size 4
+Circuit Diagram Follows
+0: ───H───H───M('z')───
+              │
+1: ───H───H───M────────
+
+2: ───X───H────────────
+Counter({0: 1000})
+
+Process finished with exit code 0

@@ -1,0 +1,25 @@
+/home/santanu/anaconda3/bin/python /home/santanu/PycharmProjects/QuantumML/listing_3.9.py
+cirq version 0.8.2
+numpy version 1.19.0
+Function bit pattern: 100011
+Bernstein Vajirani Circuit Diagram
+0: ───H───────@───H───────────M('Z')───
+              │               │
+1: ───H───H───┼───────────────M────────
+              │               │
+2: ───H───H───┼───────────────M────────
+              │               │
+3: ───H───H───┼───────────────M────────
+              │               │
+4: ───H───────┼───@───H───────M────────
+              │   │           │
+5: ───H───────┼───┼───@───H───M────────
+              │   │   │
+6: ───X───H───X───X───X────────────────
+{35: 1000}
+Distribution of bit pattern output from Bernstein Vajirani Algorithm
+{'100011': 1000}
+
+Process finished with exit code 0
+
+

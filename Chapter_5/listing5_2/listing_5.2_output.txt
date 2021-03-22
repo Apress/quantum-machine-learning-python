@@ -1,0 +1,20 @@
+/home/santanu/anaconda3/bin/python /home/santanu/PycharmProjects/QuantumML/swap_test.py
+cirq version 0.8.2
+numpy version 1.19.0
+2
+H
+[cirq.LineQubit(1), cirq.LineQubit(2)]
+0: ───H───@───@───H───M('m')───
+          │   │
+1: ───H───×───┼────────────────
+          │   │
+2: ───H───┼───×────────────────
+          │   │
+3: ───I───×───┼────────────────
+              │
+4: ───I───────×────────────────
+Probability of zero state 0.632
+Sq of Dot product  0.264
+Dot product  0.5138093031466052
+
+Process finished with exit code 0

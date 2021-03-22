@@ -1,0 +1,14 @@
+/home/santanu/anaconda3/bin/python /home/santanu/PycharmProjects/QuantumML/listing_3.10.py
+cirq version 0.8.2
+numpy version 1.19.0
+Bell Inequality Test Circuit
+0: ───H───@───X^-0.25───X──────────M('A')─────
+          │             │
+1: ───H───┼─────────────@^0.5──────M('r_A')───
+          │
+2: ───────X───X─────────M('B')────────────────
+              │
+3: ───H───────@^0.5─────M('r_B')──────────────
+Alice and Bob won 85.9 % of the times
+
+Process finished with exit code 0

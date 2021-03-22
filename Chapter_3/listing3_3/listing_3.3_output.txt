@@ -1,0 +1,11 @@
+/home/santanu/anaconda3/bin/python /home/santanu/PycharmProjects/QuantumML/qiskit.superpsotion.py
+qiskit version 0.15.2
+
+Total count for 0 and 1 are: {'0': 54, '1': 46}
+     ┌───┐┌─┐
+q_0: ┤ H ├┤M├
+     └───┘└╥┘
+c: 1/══════╩═
+           0 
+
+Process finished with exit code 0

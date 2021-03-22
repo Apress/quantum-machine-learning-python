@@ -1,0 +1,9 @@
+/home/santanu/anaconda3/bin/python /home/santanu/PycharmProjects/QuantumML/listing_3.1.py
+cirq version 0.8.2
+Circuit Follows
+(0, 0): ───H───M('m')───
+Measurement Output:
+m=1110010010110101111000000100011000101011100101011110001010001110110101110100010110011110110111100001
+Counter({1: 52, 0: 48})
+
+Process finished with exit code 0
